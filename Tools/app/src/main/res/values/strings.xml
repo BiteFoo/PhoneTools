@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tools</string>
+    <string name="upload_task_again">上传失败，点击确认，重新上传，点击取消，退出当前任务。</string>
+    <string name="init_resource_failed">信息不正确，请到网页确认信息。</string>
+    <string name="upload_success">上传成功！！</string>
+    <string name="update_ui">网络出现异常，请检测是否打开移动数据或者是连接wifi，点击空白处重新尝试！！</string>
+    <string name="read_state">点击空白出，开始上传数据</string>
+</resources>
